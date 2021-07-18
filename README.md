@@ -3,6 +3,9 @@
 - [IINA](https://iina.io/) [Swift]
 > 现代化的视频播放器, 不输VLC的体验
 
+- [YouTube-Music](https://github.com/steve228uk/YouTube-Music) [Swift]
+> Youtube Music第三方播放器
+
 ## 2.浏览器
 - [Brave](https://brave.com) [JavaScript]
 > 能赚钱还能拦截广告的浏览器, 基于Chromium
@@ -25,3 +28,7 @@
 ## 6.键盘
 - [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) [C++/Objc]
 > 超级强大的键盘自定义软件
+
+## 7.开发
+- [XcodeCleaner-SwiftUI](https://github.com/waylybaye/XcodeCleaner-SwiftUI) [Swift] [SwiftUI]
+> 清理Xcode的垃圾和缓存, 让Xcode运行更快
