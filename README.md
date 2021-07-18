@@ -47,3 +47,13 @@
 
 - [Packages](https://github.com/packagesdev/packages) [Objc]
 > 快速创建pkg安装包, 简洁Xcode风格
+
+- [Xcodes](https://github.com/RobotsAndPencils/XcodesApp) [Swift]
+> 多版本Xcode管理软件
+
+## 8.实用工具
+- [Silicon](https://github.com/DigiDNA/Silicon) [Swift]
+> 检测你的macOS软件是否是Intel或者Universal
+
+- [Hot](https://github.com/macmade/Hot) [Swift]
+> 检测你的CPU是否因为过热被限制
