@@ -3,6 +3,9 @@
 - [IINA](https://iina.io/) [Swift]
 > 现代化的视频播放器, 不输VLC的体验
 
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) [JavaScript] [Electron]
+> 超级好看的网易云第三方客户端, 清爽简洁
+
 - [YouTube-Music](https://github.com/steve228uk/YouTube-Music) [Swift]
 > Youtube Music第三方播放器
 
@@ -32,3 +35,6 @@
 ## 7.开发
 - [XcodeCleaner-SwiftUI](https://github.com/waylybaye/XcodeCleaner-SwiftUI) [Swift] [SwiftUI]
 > 清理Xcode的垃圾和缓存, 让Xcode运行更快
+
+- [DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) [Swift]
+> 离线开发工具箱, 支持开发中的常用小功能
