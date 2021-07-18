@@ -10,8 +10,11 @@
 > Youtube Music第三方播放器
 
 ## 2.浏览器
-- [Brave](https://brave.com) [JavaScript]
+- [Brave](https://brave.com) [JavaScript] [Chromium]
 > 能赚钱还能拦截广告的浏览器, 基于Chromium
+
+- [Firefox](https://www.mozilla.org/en-US/firefox/new) [C++]
+> 星星之火, 正在燎原
 
 ## 3.社交软件/社交网络
 - [Telegram](https://telegram.org) [Swift]
@@ -33,8 +36,14 @@
 > 超级强大的键盘自定义软件
 
 ## 7.开发
+- [Visual Studio Code](https://code.visualstudio.com) [JavaScript] [Electron]
+> 最好用的代码编辑器, Electron的正面例子
+
 - [XcodeCleaner-SwiftUI](https://github.com/waylybaye/XcodeCleaner-SwiftUI) [Swift] [SwiftUI]
 > 清理Xcode的垃圾和缓存, 让Xcode运行更快
 
 - [DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) [Swift]
 > 离线开发工具箱, 支持开发中的常用小功能
+
+- [Packages](https://github.com/packagesdev/packages) [Objc]
+> 快速创建pkg安装包, 简洁Xcode风格
