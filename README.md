@@ -81,3 +81,9 @@
 
 - [FSNotes](https://github.com/glushchenko/fsnotes) [Swift]
 > 现代化的笔记软件, 支持Markdown
+
+- [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) [Swift]
+> 在终端中打开目录, 支持iTerm等知名终端
+
+- [Pock](https://github.com/pigigaldi/Pock) [Swift]
+> 在TouchBar中显示Dock栏图标
