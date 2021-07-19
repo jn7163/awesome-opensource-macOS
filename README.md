@@ -57,6 +57,9 @@
 - [Xcodes](https://github.com/RobotsAndPencils/XcodesApp) [Swift]
 > 多版本Xcode管理软件
 
+- [Boop](https://github.com/IvanMathy/Boop) [JavaScript/Swift]
+> 通过Command+B快速调用开发中需要用到的小工具 (Base64,Url编码等)
+
 ## 8.实用工具
 - [Motrix](https://motrix.app) [JavaScript] [Electron]
 > 基于Aria2开发的下载软件, 支持http/磁力/bt等等
@@ -72,3 +75,9 @@
 
 - [Diagnostics](https://github.com/macmade/Diagnostics) [Swift]
 > 展示应用程序的诊断信息
+
+- [AltTab](https://github.com/lwouis/alt-tab-macos) [Swift]
+> 通过Alt+Tab快速切换窗口, 就像Windows那样
+
+- [FSNotes](https://github.com/glushchenko/fsnotes) [Swift]
+> 现代化的笔记软件, 支持Markdown
