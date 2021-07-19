@@ -39,6 +39,12 @@
 - [Visual Studio Code](https://code.visualstudio.com) [JavaScript] [Electron]
 > 最好用的代码编辑器, Electron的正面例子
 
+- [PyCharm](https://www.jetbrains.com/pycharm) [Java]
+> 要说Python最好的IDE, 绝对是PyCharm了. 对我这种有点开源洁癖的, 社区版够用了
+
+- [IDEA](https://www.jetbrains.com/idea) [Java]
+> Java最好的IDE, 当然也是Java写的. 社区版开源, 当工具人的时候用
+
 - [XcodeCleaner-SwiftUI](https://github.com/waylybaye/XcodeCleaner-SwiftUI) [Swift] [SwiftUI]
 > 清理Xcode的垃圾和缓存, 让Xcode运行更快
 
@@ -52,8 +58,17 @@
 > 多版本Xcode管理软件
 
 ## 8.实用工具
+- [Motrix](https://motrix.app) [JavaScript] [Electron]
+> 基于Aria2开发的下载软件, 支持http/磁力/bt等等
+
+- [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) [Qt5]
+> 要说bt下载软件最好的, 肯定是qBittorrent. 这个修改版还增加了屏蔽吸血毒瘤国产软件, 不错
+
 - [Silicon](https://github.com/DigiDNA/Silicon) [Swift]
 > 检测你的macOS软件是否是Intel或者Universal
 
 - [Hot](https://github.com/macmade/Hot) [Swift]
 > 检测你的CPU是否因为过热被限制
+
+- [Diagnostics](https://github.com/macmade/Diagnostics) [Swift]
+> 展示应用程序的诊断信息
