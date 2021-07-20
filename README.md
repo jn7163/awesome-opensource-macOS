@@ -60,6 +60,9 @@
 - [Boop](https://github.com/IvanMathy/Boop) [JavaScript/Swift]
 > 通过Command+B快速调用开发中需要用到的小工具 (Base64,Url编码等)
 
+- [iTerm2](https://github.com/gnachman/iTerm2) [Objc]
+> 功能强大的macOS开源终端
+
 ## 8.实用工具
 - [Motrix](https://motrix.app) [JavaScript] [Electron]
 > 基于Aria2开发的下载软件, 支持http/磁力/bt等等
