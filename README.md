@@ -87,3 +87,6 @@
 
 - [Pock](https://github.com/pigigaldi/Pock) [Swift]
 > 在TouchBar中显示Dock栏图标
+
+- [Rectangle](https://github.com/rxhanson/Rectangle) [Swift]
+> 开源免费的 Mac 窗口管理工具, 使用键盘快捷键来移动和调整窗口大小
