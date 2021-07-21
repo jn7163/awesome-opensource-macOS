@@ -39,6 +39,9 @@
 - [Visual Studio Code](https://code.visualstudio.com) [JavaScript] [Electron]
 > 最好用的代码编辑器, Electron的正面例子
 
+- [CotEditor](https://github.com/coteditor/CotEditor) [Swift]
+> macOS上完美的Notepad替代品
+
 - [PyCharm](https://www.jetbrains.com/pycharm) [Java]
 > 要说Python最好的IDE, 绝对是PyCharm了. 对我这种有点开源洁癖的, 社区版够用了
 
@@ -93,3 +96,5 @@
 
 - [Rectangle](https://github.com/rxhanson/Rectangle) [Swift]
 > 开源免费的 Mac 窗口管理工具, 使用键盘快捷键来移动和调整窗口大小
+
+## 9.安全工具
