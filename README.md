@@ -97,4 +97,7 @@
 - [Rectangle](https://github.com/rxhanson/Rectangle) [Swift]
 > 开源免费的 Mac 窗口管理工具, 使用键盘快捷键来移动和调整窗口大小
 
+- [Gray](https://github.com/zenangst/Gray) [Swift]
+> 控制每个软件的亮色/暗色主题模式
+
 ## 9.安全工具
