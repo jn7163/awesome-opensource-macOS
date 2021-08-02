@@ -3,6 +3,9 @@
 - [IINA](https://iina.io/) [Swift]
 > 现代化的视频播放器, 不输VLC的体验
 
+- [VLC](https://www.videolan.org/vlc/) [C++]
+> 播放器鼻祖, 超强解码和播放支持
+
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) [JavaScript] [Electron]
 > 超级好看的网易云第三方客户端, 清爽简洁
 
@@ -48,25 +51,38 @@
 - [IDEA](https://www.jetbrains.com/idea) [Java]
 > Java最好的IDE, 当然也是Java写的. 社区版开源, 当工具人的时候用
 
+- [Xcodes](https://github.com/RobotsAndPencils/XcodesApp) [Swift]
+> 多版本Xcode管理软件
+
 - [XcodeCleaner-SwiftUI](https://github.com/waylybaye/XcodeCleaner-SwiftUI) [Swift] [SwiftUI]
 > 清理Xcode的垃圾和缓存, 让Xcode运行更快
-
-- [DevUtils-app](https://github.com/DevUtilsApp/DevUtils-app) [Swift]
-> 离线开发工具箱, 支持开发中的常用小功能
 
 - [Packages](https://github.com/packagesdev/packages) [Objc]
 > 快速创建pkg安装包, 简洁Xcode风格
 
-- [Xcodes](https://github.com/RobotsAndPencils/XcodesApp) [Swift]
-> 多版本Xcode管理软件
-
-- [Boop](https://github.com/IvanMathy/Boop) [JavaScript/Swift]
-> 通过Command+B快速调用开发中需要用到的小工具 (Base64,Url编码等)
-
 - [iTerm2](https://github.com/gnachman/iTerm2) [Objc]
 > 功能强大的macOS开源终端
 
-## 8.实用工具
+## 8.系统工具
+- [AltTab](https://github.com/lwouis/alt-tab-macos) [Swift]
+> 通过Alt+Tab快速切换窗口, 就像Windows那样
+
+- [Hidden Bar](https://github.com/dwarvesf/hidden) [Swift]
+> 隐藏导航栏上的图标, 让导航栏更干净
+
+- [Gray](https://github.com/zenangst/Gray) [Swift]
+> 控制每个软件的亮色/暗色主题模式
+
+- [Rectangle](https://github.com/rxhanson/Rectangle) [Swift]
+> 开源免费的 Mac 窗口管理工具, 使用键盘快捷键来移动和调整窗口大小
+
+- [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) [Swift]
+> 在终端中打开目录, 支持iTerm等知名终端
+
+- [Pock](https://github.com/pigigaldi/Pock) [Swift]
+> 在TouchBar中显示Dock栏图标
+
+# 9.实用工具
 - [Motrix](https://motrix.app) [JavaScript] [Electron]
 > 基于Aria2开发的下载软件, 支持http/磁力/bt等等
 
@@ -82,22 +98,7 @@
 - [Diagnostics](https://github.com/macmade/Diagnostics) [Swift]
 > 展示应用程序的诊断信息
 
-- [AltTab](https://github.com/lwouis/alt-tab-macos) [Swift]
-> 通过Alt+Tab快速切换窗口, 就像Windows那样
-
 - [FSNotes](https://github.com/glushchenko/fsnotes) [Swift]
 > 现代化的笔记软件, 支持Markdown
-
-- [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) [Swift]
-> 在终端中打开目录, 支持iTerm等知名终端
-
-- [Pock](https://github.com/pigigaldi/Pock) [Swift]
-> 在TouchBar中显示Dock栏图标
-
-- [Rectangle](https://github.com/rxhanson/Rectangle) [Swift]
-> 开源免费的 Mac 窗口管理工具, 使用键盘快捷键来移动和调整窗口大小
-
-- [Gray](https://github.com/zenangst/Gray) [Swift]
-> 控制每个软件的亮色/暗色主题模式
 
 ## 9.安全工具
